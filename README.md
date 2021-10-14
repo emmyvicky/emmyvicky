@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmyvicky
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning CSS/ JavaScript
-- 💞️ I’m looking forward to learning and sharing knowledge
+- 👀 I’m interested in software Engineering
+- 🌱 I’m currently learning Bootstrap / JavaScript
+- 💞️ I’m looking forward to  entry level jobs.
 - 📫 you can reach me on linkontobridget@gmail.com
 
 <!---
